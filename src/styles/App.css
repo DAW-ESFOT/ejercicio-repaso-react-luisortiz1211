@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+
+.task-completed {
+  background-color: rgb(189, 107, 0);
+}
+
+.task-pending button{
+  background-color: rgb(0, 1, 78);
+}
+.border-details{
+  padding: 30px;
+}
